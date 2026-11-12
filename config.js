@@ -50,6 +50,6 @@ Hy vọng tuổi mới sẽ mang đến thật nhiều kỷ niệm đẹp, nhữ
 
 Enjoy your special day!
 
-Happy Birthday, Bảo Liên! ❤️`,
+Happy Birthday, Bảo Liên! ❤️`;
 
 };
