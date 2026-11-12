@@ -42,11 +42,14 @@ window.GIFT_CONFIG = {
   // Không dùng dấu ` và dấu \ trong thư.
   letter: `Dear Bảo Liên,
 
-Hôm nay là một ngày thật đặc biệt anh chúc em thật nhiều sức khỏe luôn vui vẻ và hạnh phúc nhaaa.
-Đừng để mình buồn nhiều quá nha có gì buồn thì nói anh nha.
-Anh không chắc được lúc nào cũng có thể an ủi em được nhưng nếu có thể anh sẽ luôn cố gắng để có mặt bên em
-Vì thế có chuyện gì buồn thì kể anh nhaa mà anh nghĩ tốt nhất là không có chuyện buồn luôn thì tốt hơn :3
-Sinh nhật vui vẻ nha em
+Hôm nay là một ngày thật đặc biệt, vì đó là ngày một người tuyệt vời xuất hiện trên thế giới này.
+
+Chúc Liên tuổi mới luôn vui vẻ, bình an và gặp thật nhiều điều may mắn. Mong rằng những điều tốt đẹp nhất sẽ luôn đến với Liên, những ước mơ sẽ dần trở thành hiện thực và mỗi ngày đều có lý do để mỉm cười.
+
+Hy vọng tuổi mới sẽ mang đến thật nhiều kỷ niệm đẹp, những chuyến đi thú vị và những người chân thành bên cạnh.
+
+Enjoy your special day!
+
 Happy Birthday, Bảo Liên! ❤️`,
 
 };
